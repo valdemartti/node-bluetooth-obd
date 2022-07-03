@@ -20,8 +20,8 @@
   },
   "devDependencies": {},
   "engines": {
-    "node" : ">= 8.x"
-  , "npm" : ">= 5.x"
+    "node" : ">= 10.x"
+  , "npm" : ">= 8.x"
   },
   "scripts": {
     "install": ""
